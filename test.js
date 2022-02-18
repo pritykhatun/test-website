@@ -1,0 +1,2 @@
+DB_USER=food-chemistry
+DB_PASS=x8TtuQ9sBydGnEjT
